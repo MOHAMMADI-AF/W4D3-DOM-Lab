@@ -71,6 +71,10 @@ menuLinks.forEach(function (link) {
 //PART/TASK 4
 //===========
 
+//the syntax (type of) of functions has been copied from the this link and changed to work with the contains of the lab
+//https://www.youtube.com/watch?v=urol_SD1wz4
+//=====================================================================================================================
+
 const subMenuEl = document.getElementById("sub-menu");
 subMenuEl.style.height = "100%";
 subMenuEl.style.backgroundColor = "var(--sub-menu-bg)";
